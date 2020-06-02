@@ -135,9 +135,9 @@ export default {
             this.healPotions= 3;
             this.specialAttacks= 2;
             Swal.fire({
-                title: 'Te rendiste :(' ,
-                text:  'Pues vaya',
-                confirmButtonText:  ':(',
+                title: 'You surrended! LOL' ,
+                text:  'Are you going to give up??',
+                confirmButtonText:  ':D',
             });
             this.Logs = [];
             this.goHome()
